@@ -7,9 +7,11 @@ body {
   font-family: "Poppins", sans-serif;
   background: linear-gradient(135deg, #6ab7ff, #e3f2fd);
   height: 100vh;
+  min-height: 100vh;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
+  padding-top: 30px;
 }
 
 .container {
