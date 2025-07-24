@@ -4,7 +4,6 @@
 
 body {
   margin: 0;
-  padding: 20px;
   font-family: "Poppins", sans-serif;
   background: linear-gradient(135deg, #6ab7ff, #e3f2fd);
   height: 100vh;
@@ -28,7 +27,16 @@ h1 {
   color: #1565c0;
   font-size: 1.5rem;
 }
-
+.lembretes {
+  background-color: #e3f2fd;
+  border: 1px solid #90caf9;
+  border-radius: 10px;
+  padding: 10px 15px;
+  margin-bottom: 20px;
+  font-size: 14px;
+  color: #0d47a1;
+  text-align: left;
+}
 label {
   font-size: 16px;
   font-weight: bold;
